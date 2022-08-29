@@ -5,10 +5,6 @@ import java.util.Scanner;
 
 public class Question14 {
 
-    public static int Search() {
-        return -1;
-    }
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
